@@ -1,0 +1,8 @@
+{
+  "name": "ifland.unity.adb",
+  "displayName": "Unity ADB Extention",
+  "version": "0.1.0",
+  "description": "Unity ADB Extention",
+  "unity": "2020.3",
+  "keywords": ["android", "adb"]
+}
